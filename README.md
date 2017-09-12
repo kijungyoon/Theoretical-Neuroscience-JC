@@ -6,7 +6,7 @@ We are a cross-departmental student run group, whose aim is to bring together th
 
 Friday @ 9:00am-10:00am
 
-BCM TBA
+BCM S553
 
 #### Contact
 
@@ -18,8 +18,8 @@ If you’d like to be added to the email list or sign up to present, please cont
 
 | Date   | Presenter    | Reading                                  |
 | :----- | :----------- | :--------------------------------------- |
-| Sep 15 |              | [Inferring interactions between neurons, stimuli, and behavior](https://www.xxx.html) NeuroNex et al. *Nature* (2020) |
-| Sep 22 |              | [Cellular, Systems, or Cognitive Neuroscience Journal](http://www.xxx.html) Pitkow et al. *Science* (2018) |
+| Sep 15 |              | [Inferring structural connectivity using Ising couplings in models of neuronal networks](https://www.nature.com/articles/s41598-017-05462-2.pdf) Kadirvelu et al. *Scientific Reports* (2017) |
+| Sep 22 |              |  |
 | Sep 29 |              |                                          |
 | Oct 6  |              |                                          |
 | Oct 13 |              |                                          |
