@@ -19,7 +19,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Date   | Presenter    | Reading                                  |
 | :----- | :----------- | :--------------------------------------- |
 | Sep 15 | Xaq          | [Bayesian Efficient Coding.](http://www.biorxiv.org/content/biorxiv/early/2017/08/25/178418.full.pdf) Park and Pillow *bioRxiv* (2017) |
-| Sep 22 |              | [Inferring structural connectivity using Ising couplings in models of neuronal networks.](https://www.nature.com/articles/s41598-017-05462-2.pdf) Kadirvelu et al. *Scientific Reports* (2017) |
+| Sep 22 | Kresimir     | [Inferring structural connectivity using Ising couplings in models of neuronal networks.](https://www.nature.com/articles/s41598-017-05462-2.pdf) Kadirvelu et al. *Scientific Reports* (2017) |
 | Sep 29 |              |                                          |
 | Oct 6  |              |                                          |
 | Oct 13 |              |                                          |
