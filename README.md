@@ -26,7 +26,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Oct 20 | Ralf Haefner | [Perceptual Decision-Making as Probabilistic Inference by Neural Sampling.](http://www.cnbc.cmu.edu/braingroup/papers/haefner_etal_2016.pdf) Haefner et al. *Neuron* (2016)           |
 | Oct 27 | NeuroEngineering symposium  |                                          |
 | Nov 3  | Aram         | [The Infinite Hidden Markov Model](https://papers.nips.cc/paper/1956-the-infinite-hidden-markov-model.pdf) Beal et al. *NIPS* (2002)                                        |
-| Nov 3  | Kijung         | Graph Neural Networks [1](https://arxiv.org/abs/1511.05493)[2](https://arxiv.org/abs/1612.00222)[3](https://arxiv.org/abs/1704.01212)[4](https://arxiv.org/abs/1511.05298)                                        |
+| Nov 3  | Kijung         | Graph Neural Networks: A Survey and Perspectives for the Brain's Inference Algorithm [[1]](https://arxiv.org/abs/1511.05493)[[2]](https://arxiv.org/abs/1612.00222)[[3]](https://arxiv.org/abs/1704.01212)[[4]](https://arxiv.org/abs/1511.05298)                                        |
 | Nov 10 | Adrian       | [Rats optimally accumulate and discount evidence in a dynamic environment.](https://www.biorxiv.org/content/early/2017/10/17/204248?%3Fcollection=) Piet et al. *bioRxiv* (2017)                                         |
 | Nov 17 | Ingmar       | [Q&A Session: A synthetic approach to understand hard navigation in the brain.](https://arxiv.org/abs/1609.09059) Kanitscheider & Fiete *NIPS* (2017)                                 |
 | Nov 24 | Thanksgiving |                                          |
