@@ -30,6 +30,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Nov 10 | Adrian       | [Rats optimally accumulate and discount evidence in a dynamic environment.](https://www.biorxiv.org/content/early/2017/10/17/204248?%3Fcollection=) Piet et al. *bioRxiv* (2017)                                         |
 | Nov 17 | Ingmar       | [Q&A Session: A synthetic approach to understand hard navigation in the brain.](https://arxiv.org/abs/1609.09059) Kanitscheider & Fiete *NIPS* (2017)                                 |
 | Nov 24 | Thanksgiving |                                          |
-| Dec 1  | Harel        |                                          |
+| Dec 1  | Harel        | [Synaptic Transmission Optimization Predicts Expression Loci of Long-Term Plasticity.](https://pdfs.semanticscholar.org/f75f/998e50a5519cc09eed83ad0fbc33d748e085.pdf) Costa et al. *Neuron* (2017)        |
 | Dec 8  | NIPS         |                                          |
+| Dec 15  | Kaushik     | [A theory of multineuronal dimensionality, dynamics and measurement.](https://www.biorxiv.org/content/early/2017/11/12/214262) Gao et al. *bioRxiv* (2017)                   |
 
