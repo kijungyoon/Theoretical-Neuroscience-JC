@@ -13,8 +13,33 @@ BCM S553
 If you’d like to be added to the email list or sign up to present, please contact Kijung Yoon (kijung [dot] yoon [at] gmail [dot] com).
 
 
+##### Current Schedule (Spring 2018)
 
-##### Current Schedule (Fall 2017)
+| Date   | Presenter   | Reading                                  |
+| :----- | :---------- | :--------------------------------------- |
+| Jan 12 | Emin        | [Computational principles of synaptic memory consolidation.](https://www.nature.com/articles/nn.4401) Benna and Fusi *Nature Neurosci.* (2016) |
+| Jan 19 | Robbe Goris | Q&A session                              |
+| Jan 26 | No meeting  | GCC Theoretical & Computational Neuroscience Annual Conference |
+| Feb 2  | Giuseppe    | [Structure in neural population recordings: an expected byproduct of simpler phenomena?](http://stat.columbia.edu/~cunningham/pdf/ElsayedNN2017.pdf) Elsayed and Cunningham *Nature Neurosci.* (2017)                                         |
+| Feb 9  | Adrian      | [MDL, Bayesian Inference and the Geometry of the Space of Probability Distributions.](http://www.physics.upenn.edu/~vbalasub/public-html/Inference_files/MDLChapter.pdf) Vijay Balasubramanian                                         |
+| Feb 16 | No meeting  | Rush and Helen Record Neuroscience Forum |
+| Feb 23 | Tianyi      | [Learning and attention reveal ageneral relationship betweenpopulation activity and behavior](http://science.sciencemag.org/content/sci/359/6374/463.full.pdf) Ni et al. *Science* (2018)                                         |
+| Mar 2  | No meeting  | COSYNE Meeting                           |
+| Mar 9  | Satyajit Ghosh | Postdoc candidate talk                      |
+| Mar 16 | Alan        | [Linking connectivity, dynamics and computations in recurrent neural networks](https://arxiv.org/pdf/1711.09672.pdf) Mastrogiuseppe and Ostojic *arXiv*  (2017)                                         |
+| Mar 23 |             |                                          |
+| Mar 30 |             |                                          |
+| Apr 6  |             |                                          |
+| Apr 13 |             |                                          |
+| Apr 20 |             |                                          |
+| Apr 27 |             |                                          |
+| May 4  |             |                                          |
+| May 11 |             |                                          |
+| May 18 |             |                                          |
+| May 25 |             |                                          |
+
+
+##### Past Schedule (Fall 2017)
 
 | Date   | Presenter    | Reading                                  |
 | :----- | :----------- | :--------------------------------------- |
