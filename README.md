@@ -33,7 +33,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Apr 13 | Dimitri     | [Functional selectivity and specific connectivity of inhibitory neurons in primary visual cortex](https://www.biorxiv.org/content/biorxiv/early/2018/04/04/294835.1.full.pdf) *bioRxiv* (2018)                       |
 | Apr 20 | No meeting  | NeuroNex DataJoint Training Workshop                                         |
 | Apr 27 | Yossi       | [New Types of Experiments Reveal that a Neuron Functions as Multiple Independent Threshold Units](https://www.nature.com/articles/s41598-017-18363-1.pdf) Sardi et al. *Scientific Reports* (2017)                   |
-| May 4  |             |                                          |
+| May 4  | Saket       | Q&A Session: Biological solutions to two fundamental computational problems                |
 | May 11 |             |                                          |
 | May 18 |             |                                          |
 | May 25 |             |                                          |
