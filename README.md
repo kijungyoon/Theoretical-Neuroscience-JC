@@ -34,9 +34,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Apr 20 | No meeting  | NeuroNex DataJoint Training Workshop                                         |
 | Apr 27 | Yossi       | [New Types of Experiments Reveal that a Neuron Functions as Multiple Independent Threshold Units](https://www.nature.com/articles/s41598-017-18363-1.pdf) Sardi et al. *Scientific Reports* (2017)                   |
 | May 4  | Saket       | Q&A Session: Biological solutions to two fundamental computational problems                |
-| May 11 |             |                                          |
-| May 18 |             |                                          |
-| May 25 |             |                                          |
+| May 11 | Kresimir    | [Spontaneous behaviors drive multidimensional, brain-wide neural activity](https://www.biorxiv.org/content/biorxiv/early/2018/04/22/306019.full.pdf) Stringer et al. *bioRxiv* (2018)         |
 
 
 ##### Past Schedule (Fall 2017)
